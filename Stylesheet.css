@@ -22,7 +22,8 @@ font-family:Verdana
     }
 span{float:right
     }
-li {padding-left:2em;
+li {font-size:14;
+    padding-left:2em;
     list-style-position:inside
     }
 a{font-size:18px
