@@ -1,27 +1,27 @@
 body{margin: 100px 150px 50px 150px;
-    background-color: white
+    background-color: teal
     }
 img{height: 210px; 
     border:5px double black; 
     float:right
     }
 h1{font-size:36px; 
-    font-family:Verdana
-    }
+    font-family:Verdana;
+    background-color: white}
 h2{font-size:18px; 
-font-family:Verdana
-    }
+font-family:Verdana;
+    background-color: white}
 h3{font-size:24; 
-    font-family:Verdana
-    }
+    font-family:Verdana;
+    background-color: white}
 h4{font-size:18px; 
-font-family:Verdana
-    }
-span{float:right
-    }
+font-family:Verdana;
+    background-color: white}
+span{float:right;
+    background-color: white}
 li {padding-left:2em;
-    list-style-position:inside
-    }
+    list-style-position:inside;
+    background-color: white}
 a{font-size:18px;
     text-align:center
     }
