@@ -1,8 +1,13 @@
-
-function Dave(x){
-	var x = str.lenth
-		if (x <= 8){
-			return("That's kinda short. Your full name really has only " + (x-1) + " letters?");
+var x = 10
+function Dave(x > 0){
+		if (x >= 3){
+			console.log("health is at " + x + " HP. Find a health pack");
+			x--;
+		} else if (x == 0){
+			console.log("health is at " + x + " HP. FATALITY!!!" );
+			x--;
 		} else {
-			return ("There are " + (x-1) + " letters in your name");
+			console.log("health is at " + x + " HP.");
+			x--;
+		}
 }
