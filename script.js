@@ -1,8 +1,5 @@
-function Dave(x){
-	var x = prompt("lets do math! enter a number.");
-		if (x <= 50){
-			console.log(x + " - 5 = " + (x-5));
-		} else {
-			console.log(x + " + 36 = " + (x+36));
-	}
+function takeNum (num) {
+	console.log("I've take a variable into the function named \"num\" that is equal to "+num+" and is now being displayed")
+	num+=1;
+	console.log("I've now added 1 to the value and can display it here: "+num+" !");
 }
