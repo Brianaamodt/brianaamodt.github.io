@@ -1,8 +1,8 @@
-function Dave(fatality){
-	var fatality = prompt ("type anything object and i will tell you how long until is succumbs to the singularity");
-		if fatality(typeof(fatality) == Hope){
-			return ("No Hope! It has already begun!");}
+var x = prompt("type your first and last name with one space in between")
+function Dave(x){
+	var x = str.lenth
+		if (x <= 8){
+			return("That's kinda short. Your full name really has only " + (x-1) + " letters?");}
 		} else {
-			var fatality = str.lenth;
-			return (fatality + " seconds until full integration");
+			return ("There are " + (x-1) + " letters in your name");
 }
