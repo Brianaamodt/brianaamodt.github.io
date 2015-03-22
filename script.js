@@ -1,4 +1,4 @@
-var x = prompt("type your first and last name with one space in between")
+
 function Dave(x){
 	var x = str.lenth
 		if (x <= 8){
