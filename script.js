@@ -1,4 +1,4 @@
-var x = 10
+var x = 10;
 function Dave(x > 0){
 		if (x >= 3){
 			console.log("health is at " + x + " HP. Find a health pack");
