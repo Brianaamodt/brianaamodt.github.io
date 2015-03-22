@@ -1,11 +1,10 @@
 function Dave(x){
-	for (var x = 10; x >= 0; x--; ) {
-		if (x >= 3){
-			console.log("health is at " + x + " HP. Find a health pack");
-		} else if (x == 0){
-			console.log("health is at " + x + " HP. FATALITY!!!" );
+	var x = prompt("lets do math! enter a number.")
+		if (x <= 50){
+			console.log(x + " - 5 = " + (x-5));
+		}
 		} else {
-			console.log("health is at " + x + " HP.");
+			console.log(x + " + 36 = " + (x+36));
 		}
 	}
 }
