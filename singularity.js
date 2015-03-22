@@ -1,5 +1,5 @@
-var fatality = prompt ("type anything object and i will tell you how long until is succumbs to the singularity");
 function Dave(fatality){
+	var fatality = prompt ("type anything object and i will tell you how long until is succumbs to the singularity");
 		if fatality(typeof(fatality) == Hope){
 			return ("No Hope! It has already begun!");}
 		} else {
